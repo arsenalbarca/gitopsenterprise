@@ -9,7 +9,7 @@ spec:
   generators:
   - pullRequest:
       github:
-        owner: hoanglecao
+        owner: arsenalbarca
         repo: gitopsenterprise
        # Labels is used to filter the PRs that you want to target. (optional)
         labels:
