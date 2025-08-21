@@ -20,7 +20,7 @@ spec:
       name: 'myapp-{{.branch}}'
     spec:
       source:
-        repoURL: 'https://github.com/hoanglecao/gitopsenterprise.git'
+        repoURL: 'https://github.com/arsenalbarca/gitopsenterprise.git'
         targetRevision: HEAD
         path: preview-environments/kustomize-preview-app/ 
         kustomize:
